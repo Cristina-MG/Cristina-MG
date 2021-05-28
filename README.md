@@ -21,8 +21,9 @@ Please check my [portfolio](https://cristina-mg.github.io/Portfolio/), there are
 
 #### Contact me or let me know any issue here:
 
-* Cristina Martínez García
-[![LinkedIn]
+Cristina Martínez García
+
+[![Linkedin](https://img.shields.io/badge/-soniadosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)
 
 <!--
 **Cristina-MG/Cristina-MG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
