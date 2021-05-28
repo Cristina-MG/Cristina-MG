@@ -23,7 +23,7 @@ Please check my [portfolio](https://cristina-mg.github.io/Portfolio/), there are
 
 Cristina Martínez García
 
-[![Linkedin](https://img.shields.io/badge/-soniadosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)
+[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)
 
 <!--
 **Cristina-MG/Cristina-MG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
