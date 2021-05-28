@@ -1,17 +1,17 @@
 <h1 align = "center"> Welcome to my Github </h1>
 <h3 align = "left"> My name is Cristina Martinez and I am a chemical engineer specialized in data analysis and machine learning.</h3>
 
-          ### SKILLS
-          * Python
-          * SQL
-          * Data Mining
-          * Data cleaning
-          * Visualization
-          * Exploratory Data Analysis
-          * Web Scraping
-          * Machine Learning
-          * Deep Learning
-          * AWS
+### SKILLS
+* Python
+* SQL
+* Data Mining
+* Data cleaning
+* Visualization
+* Exploratory Data Analysis
+* Web Scraping
+* Machine Learning
+* Deep Learning
+* AWS
 
 Feel free to browse my repositories and see the projects I have worked on and am working on.
 
