@@ -22,7 +22,7 @@ Please check my [portfolio](https://cristina-mg.github.io/Portfolio/), there are
 #### Contact me or let me know any issue here:
 
 * Cristina Martínez García
-[![LinkedIn](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)
+[![LinkedIn]
 
 <!--
 **Cristina-MG/Cristina-MG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
