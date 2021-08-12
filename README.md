@@ -15,7 +15,7 @@
 
 Feel free to browse my repositories and see the projects I have worked on and am working on.
 
-Please check my [portfolio](https://cristina-mg.github.io/Portfolio/), there are interesting projects.
+Please check my [portfolio](https://cristina-mg.github.io/), there are interesting projects.
 
 
 
