@@ -1,5 +1,4 @@
 <h1 align = "center"> Welcome to my Github </h1>
-![image](https://user-images.githubusercontent.com/78017845/131875201-412a1afc-bb61-4b4c-a35d-2d3d8848bb18.png)
 
 <h3 align = "left"> My name is Cristina Martinez and I am a chemical engineer specialized in data analysis and machine learning.</h3>
 
