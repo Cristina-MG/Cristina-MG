@@ -12,6 +12,7 @@
 * Machine Learning
 * Deep Learning
 * AWS
+* Computer Vision
 
 Feel free to browse my repositories and see the projects I have worked on and am working on.
 
