@@ -1,39 +1,28 @@
-<h1 align = "center"> Welcome to my Github </h1>
+# Welcome to my GitHub! 👋
 
-<h3 align = "left"> My name is Cristina Martinez and I am a chemical engineer specialized in data analysis and machine learning.</h3>
+## I'm Cristina Martinez, a chemical engineer with a growing passion for **data science**. 💻📊
 
-### SKILLS
-* Python
-* SQL
-* Data Mining
-* Data cleaning
-* Visualization
-* Exploratory Data Analysis
-* Web Scraping
-* Machine Learning
-* Deep Learning
-* AWS
-* Computer Vision
+### **Transforming** the future of **companies** with data! 🌟
 
-Feel free to browse my repositories and see the projects I have worked on and am working on.
+From my background in **chemical engineering**, I have found my path in **data science**. I firmly believe that deep **data analysis** not only optimizes processes but also reveals strategic opportunities that can drive **business** growth and innovation. 💡
 
-Please check my [portfolio](https://cristina-mg.github.io/), there are interesting projects.
+### **SKILLS**
+* Python 🐍
+* R programming 📊
+* SQL 🗃️
+* **Data Mining** 🔍
+* **Data Cleaning** 🧹
+* **Visualization** 📊
+* **Exploratory Data Analysis** 🕵️‍♀️
+* **Web Scraping** 🌐
+* **Machine Learning** 🤖
+* **Deep Learning** 🧠
+* **AWS** ☁️
+* **Computer Vision** 👁️
 
+Explore my repositories to discover the projects I have worked on and am currently developing. Every line of code represents my commitment to **excellence** and **innovation**! 🚀
 
+Feel free to visit my [portfolio](https://cristina-mg.github.io/) to explore exciting and meaningful projects.
 
-#### Contact me or let me know any issue [here](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)
+Contact me or let me know if you have any questions [here](https://www.linkedin.com/in/cristina-mart%C3%ADnez-garc%C3%ADa-438209170/)!
 
-<!--
-**Cristina-MG/Cristina-MG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
